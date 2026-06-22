@@ -23,4 +23,4 @@ Rather than just dumping code, I treat my GitHub as a live documentation of my g
 ---
 ### 📫 Let's Connect:
 
-**Find me here:** [LinkedIn](https://www.linkedin.com/in/ekmatra) | **Email:** [singhsumit05032005@gmail.com](mailto:singhsumit05032005@gmail.com)
+**Find me here:** [LinkedIn](https://www.linkedin.com/in/ekmatra) | **Email:** [singhsumit05032005@gmail.com]([mailto:singhsumit05032005@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfmrkftXLXCwMldPswmPqNrXWWsRCMMSFbSJWGCTNGFFgKNvZrjhkCtQshzvHkmbMfZBqB))
