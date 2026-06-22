@@ -22,4 +22,5 @@ Rather than just dumping code, I treat my GitHub as a live documentation of my g
 
 ---
 📫Let's Connect:
-[Find me here](https://www.linkedin.com/in/ekmatra) | [Email](mailto:singhsumit05032005@gmail.com)
+<a href="https://www.linkedin.com/in/ekmatra" style="padding: 8px 16px; background-color: #0ea5e9; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">Find me here</a>
+ | <a href="mailto:singhsumit05032005@gmail.com" style="padding: 8px 16px; background-color: #0ea5e9; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">Email Me</a>
