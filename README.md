@@ -22,4 +22,4 @@ Rather than just dumping code, I treat my GitHub as a live documentation of my g
 
 ---
 📫Let's Connect:
-[Connect with me on LinkedIn](https://www.linkedin.com/in/ekmatra) | [Email Me](mailto:singhsumit05032005@gmail.com)
+[Find me here](https://www.linkedin.com/in/ekmatra) | [Email](mailto:singhsumit05032005@gmail.com)
