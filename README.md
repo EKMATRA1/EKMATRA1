@@ -21,6 +21,6 @@ Rather than just dumping code, I treat my GitHub as a live documentation of my g
   My literal Day One. A simple, handcrafted personal profile page preserved untouched for the nostalgia. Everyone has to start somewhere!
 
 ---
-📫Let's Connect:
-<a href="https://www.linkedin.com/in/ekmatra" style="padding: 8px 16px; background-color: #0ea5e9; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">Find me here</a>
- | <a href="mailto:singhsumit05032005@gmail.com" style="padding: 8px 16px; background-color: #0ea5e9; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">Email Me</a>
+### 📫 Let's Connect:
+
+**Find me here:** [LinkedIn](https://www.linkedin.com/in/ekmatra) | **Email:** [singhsumit05032005@gmail.com](mailto:singhsumit05032005@gmail.com)
